@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/speedyscribe/static/js/main.2a39761a.js",
+    "static/js/787.646e3934.chunk.js": "/speedyscribe/static/js/787.646e3934.chunk.js",
+    "index.html": "/speedyscribe/index.html",
+    "main.2a39761a.js.map": "/speedyscribe/static/js/main.2a39761a.js.map",
+    "787.646e3934.chunk.js.map": "/speedyscribe/static/js/787.646e3934.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2a39761a.js"
+  ]
+}
