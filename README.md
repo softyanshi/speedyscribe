@@ -3,7 +3,7 @@
 <div align="center">
   <br />
     <a href="" >
-      <img src="https://github.com/softyanshi/banking/blob/main/dashboard.png" alt="Project Banner">
+      <img src="https://github.com/softyanshi/speedyscribe/blob/main/preview.png" alt="Project Banner">
     </a>
   <br />
 </div>
