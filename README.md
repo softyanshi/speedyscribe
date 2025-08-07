@@ -1,6 +1,12 @@
 # ✨ SpeedyScribe 🧠⌨️
 **SpeedyScribe** is a lightning-fast and minimal typing test app built using **ReactJS**. Designed to help you practice and improve your typing speed and accuracy, SpeedyScribe provides real-time feedback, clean UI, and a seamless typing experience.
-
+<div align="center">
+  <br />
+    <a href="" >
+      <img src="https://github.com/softyanshi/banking/blob/main/dashboard.png" alt="Project Banner">
+    </a>
+  <br />
+</div>
 
 
 # Getting Started with Create React App
